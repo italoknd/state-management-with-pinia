@@ -1,4 +1,4 @@
-# learning-pinia
+# pinia
 
 ## Project setup
 ```
